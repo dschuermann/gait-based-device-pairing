@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BANDANA</string>
+    <string name="notification_title">BANDANA</string>
+    <string name="notification_message">Application Started</string>
+    <string name="ticker_text">Ticker Text</string>
+    <string name="permissions_required">BANDANA requires the requested permissions to work!</string>
+    <string name="bluetooth_required">BANDANA requires Bluetooth to work!</string>
+
+    <string name="state_bluetooth_discover">"Looking for devices"</string>
+    <string name="state_connected">"Connected. Please keep walking."</string>
+    <string name="state_walking">"Please keep walking."</string>
+    <string name="state_secure">"Fingerprint Generated, Similarity: %s"</string>
+    <string name="state_block">"Non Secure, %s"</string>
+    <string name="state_fail">"Error while processing the sensor data. close app!"</string>
+    <string name="state_error">"Error: %s"</string>
+
+</resources>

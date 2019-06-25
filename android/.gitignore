@@ -1,0 +1,28 @@
+# Android specific
+lint.xml
+local.properties
+release.properties
+*.class
+*.apk
+
+# Gradle
+.gradle
+build
+
+# Maven
+target
+pom.xml.*
+
+# Eclipse
+.project
+.classpath
+.settings
+.metadata
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# OS Specific
+[Tt]humbs.db
+.DS_Store
